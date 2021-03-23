@@ -25,6 +25,8 @@ Check out what I am up to these days : <a href="https://ajdeve.github.io/" style
 <a href="#">
 <img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 <a href="#">
+<img src="https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=Buefy&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
