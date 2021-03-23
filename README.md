@@ -9,7 +9,7 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 
 <br><br>
 
-## Tech Stack💡
+## Building Tech Stack 💡
 
 <br>
 
