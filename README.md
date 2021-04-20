@@ -38,5 +38,5 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 If you want to contact me, do so via gmail. 
 <br>
 <a href="mailto:ajdevlife@gmail.com">
-<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ajdevlife@gmail.com />
+<img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ajdevlife@gmail.com" />
 </a>
