@@ -30,6 +30,8 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a href="#">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 </p>
 
 <br>
