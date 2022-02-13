@@ -13,7 +13,11 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 
 [Educare](https://github.com/2021PlaydataFinalProject/EduCare)
 <br>
+A deep learning powered online exam proctoring service
+<br>
 [Gaepom](https://github.com/adevep/GAEPOM)
+<br>
+Community platform where designers and developers can find their next side hustles 
 
 <br>
 
