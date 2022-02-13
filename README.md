@@ -11,9 +11,9 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 
 ## Projects 💡
 
-[Educare](https://github.com/2021PlaydataFinalProject)
+[Educare](https://github.com/2021PlaydataFinalProject/EduCare)
 <br>
-[Gaepom](https://github.com/adevep)
+[Gaepom](https://github.com/adevep/GAEPOM)
 
 <br>
 
