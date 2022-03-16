@@ -19,7 +19,6 @@ A deep learning powered online exam proctoring service
 [Gaepom](https://github.com/adevep/GAEPOM)
 <br>
 Community platform where designers and developers can find their next side hustles 
-
 <br>
 <br>
 [Used Car Market Price Prediction](https://github.com/ajdeve/UsedCarMarket)
