@@ -21,6 +21,11 @@ A deep learning powered online exam proctoring service
 Community platform where designers and developers can find their next side hustles 
 
 <br>
+<br>
+[Used Car Market Price Prediction](https://github.com/ajdeve/UsedCarMarket)
+<br>
+Price prediction using Craiglist dataset & web-scraped MSRP dataset.
+<br>
 
 ## Tools You Might Find Interesting 
 
