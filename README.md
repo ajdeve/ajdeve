@@ -23,7 +23,12 @@ Community platform where designers and developers can find their next side hustl
 <br>
 [Used Car Market Price Prediction](https://github.com/ajdeve/UsedCarMarket)
 <br>
-Price prediction using Craiglist dataset & web-scraped MSRP dataset.
+Price prediction using Craiglist dataset & web-scraped MSRP dataset
+<br>
+<br>
+[Analysis On Beauty Industry](https://github.com/ajdeve/BeautyProject)
+<br>
+Sentimental analysis on tweets associated with beauty brands and product review analysis from SEPHORA
 <br>
 
 ## Tools You Might Find Interesting 
