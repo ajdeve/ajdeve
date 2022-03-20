@@ -5,8 +5,8 @@
 
 <br>
 Biz holic with an interest in development and analytics 🖥 <br><br>
-<a href="https://ajdeve.github.io/" style="color: black">Blog</a> 😁
-
+<!-- <a href="https://ajdeve.github.io/" style="color: black">Blog</a> 😁
+ -->
 <br><br>
 
 ## Projects 💡
