@@ -30,6 +30,12 @@ Price prediction using Craiglist dataset & web-scraped MSRP dataset
 <br>
 Sentimental analysis on tweets associated with beauty brands and product review analysis from SEPHORA
 <br>
+<br>
+[Animation Recommendation](https://github.com/ajdeve/AnimationRecomm)
+<br>
+Animation Recommendation utilizing content-based, collaborative filtering and rating prediction powered by deep learning (Keras).
+<br>
+
 
 ## Tools You Might Find Interesting 
 
