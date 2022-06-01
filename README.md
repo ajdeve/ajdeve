@@ -33,7 +33,7 @@ Sentimental analysis on tweets associated with beauty brands and product review 
 <br>
 [Animation Recommendation](https://github.com/ajdeve/AnimationRecomm)
 <br>
-Animation Recommendation utilizing content-based, collaborative filtering and rating prediction powered by deep learning (Keras).
+Animation Recommendation utilizing content-based, collaborative filtering and rating prediction powered by deep learning (Keras)
 <br>
 
 
