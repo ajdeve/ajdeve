@@ -10,7 +10,7 @@ Biz holic with an interest in development and analytics 🖥 <br><br>
 <br><br>
 
 ## Projects 💡
-[Patent Semantic Similarity Search System](https://github.com/ajdeve/patentsimilarity/blob/main/README.md)
+[Patent Semantic Similarity Search System](https://github.com/ajdeve/patentsimilarity)
 <br>
 Sentence-BERT & FAISS powered patent semantic similarity search system for patent applicants 
 <br>
